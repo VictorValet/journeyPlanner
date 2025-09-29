@@ -10,7 +10,7 @@ npm install
 node index.js
 ```
 ## Test
-Just `./test.sh` or send a request to localhost with 
+Just `./test.sh` or send a request to localhost:5000 with 
 * Headers as:
 ```
 {"Content-Type: application/json"}
