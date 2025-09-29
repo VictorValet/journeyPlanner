@@ -4,7 +4,7 @@ An API endpoint to retrieve the best journey option with Poppy
 ## Installation
 Ensure you have Node.js and npm install
 ```
-git clone https://github.com/VictorValet/journeyPlanner.git\
+git clone https://github.com/VictorValet/journeyPlanner.git
 cd journeyPlanner
 npm install
 node index.js
